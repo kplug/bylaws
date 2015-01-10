@@ -1,0 +1,524 @@
+2010-07-07 08:41:53 -!- cdl_ [~chatzilla@cpe-66-75-18-43.san.res.rr.com] has joined #SDCS
+2010-07-07 08:42:46 < cdl_> Trying out the ChatZilla plugin for Firefox.  Seems to work.
+2010-07-07 08:44:12 < cdl_> off again
+2010-07-07 08:44:26 -!- cdl_ [~chatzilla@cpe-66-75-18-43.san.res.rr.com] has left #SDCS []
+2010-07-07 10:49:31 -!- Irssi: #SDCS: Total of 4 nicks [0 ops, 0 halfops, 0 voices, 4 normal]
+2010-07-07 15:03:25 -!- You're now known as augmented4th
+2010-07-07 15:04:47 -!- Irssi: #SDCS: Total of 4 nicks [0 ops, 0 halfops, 0 voices, 4 normal]
+2010-07-07 15:58:30 -!- tessier [~treed@mail.copilotco.com] has quit [Quit: Changing server]
+2010-07-07 16:03:18 -!- Irssi: #SDCS: Total of 3 nicks [0 ops, 0 halfops, 0 voices, 3 normal]
+2010-07-07 16:05:41 -!- tessier [~treed@mail.copilotco.com] has joined #SDCS
+2010-07-07 16:06:43 -!- Irssi: #SDCS: Total of 4 nicks [0 ops, 0 halfops, 0 voices, 4 normal]
+2010-07-07 16:53:40  * augmented4th leaves work now; see you guys at 8
+2010-07-07 16:54:33 < augmented4th> might be a few minutes late, but I'm running straight to a Starbucks after my 7-8pm class is over
+2010-07-07 16:55:00 -!- You're now known as aug4_away
+2010-07-07 17:03:22 < tessier> ok
+2010-07-07 18:45:13 < pacneil> ok
+2010-07-07 18:46:05 < pacneil> anybody save the agenda list for tonight? :-)
+2010-07-07 19:48:38 -!- cdl_ [~chatzilla@cpe-66-75-18-43.san.res.rr.com] has joined #SDCS
+2010-07-07 19:51:05 < pacneil> cdl_: hi!
+2010-07-07 19:52:09 < cdl_> hello.  I'm here.
+2010-07-07 19:58:58 < pacneil> As soon at Bryan comes back online we can start
+2010-07-07 20:00:46 < pacneil> I suggest that we discuss what we want to do,. If  a vote needs to be taken, the secretary can make note of it, and we can vote right before the meeting tomorrow night. If that's acceptable to everyone.
+2010-07-07 20:03:09 < cdl_> I don't see more than three people attached at the moment.  Should we start from the agenda you proposed on July 1?
+2010-07-07 20:04:26 < tessier> Buenas noches
+2010-07-07 20:04:49 < pacneil> hasty lambago
+2010-07-07 20:04:56 < tessier> Do we need a quorum for this? Only for voting right?
+2010-07-07 20:04:56 -!- Alowishus [~jpenix@99-150-248-225.lightspeed.sndgca.sbcglobal.net] has joined #SDCS
+2010-07-07 20:05:09 < tessier> Alowishus: hola
+2010-07-07 20:05:18 < Alowishus> Hey all, just checking in to verify that I'm *not* actually a board member :)
+2010-07-07 20:05:23 < pacneil> only for voting i believe
+2010-07-07 20:05:37 < tessier> Alowishus: We elected you president in-absentia.
+2010-07-07 20:05:40 < tessier> Enjoy
+2010-07-07 20:05:40 < Alowishus> shit
+2010-07-07 20:05:55 < Alowishus> dirty trick
+2010-07-07 20:06:26 < pacneil> we're shameless
+2010-07-07 20:06:43 < Alowishus> how many DaL's are there, and how does that effect quorum?
+2010-07-07 20:07:15 < Alowishus> I know there are *supposed* to be 8, but wondering how many we actually have :)
+2010-07-07 20:07:28 < Alowishus> Obviously one goal of bylaw change would be to downsize that significantly...
+2010-07-07 20:07:57 < pacneil> yeah, I think that's going to be one of the first things on the agenda
+2010-07-07 20:08:20 < Alowishus> hm, would it be helpful to put Claypool in here to log the meeting?
+2010-07-07 20:08:21 < pacneil> What are your thoughts about the appropriate number of DaL's?
+2010-07-07 20:08:26 < Alowishus> or someone doing it in their client?
+2010-07-07 20:08:42 < pacneil> I hope the secretary is logging. :-)
+2010-07-07 20:09:15 < Alowishus> I wonder whether *any* are necessary... I was supportive of DaL's when there were SIGs, assuming that SIG presidents/reps filled them
+2010-07-07 20:09:19 < Alowishus> but taht didn't happen, and now there aren't sigs
+2010-07-07 20:09:28 < Alowishus> so is there a purpose?  just to keep the 4 execs in check?
+2010-07-07 20:10:02 < cdl_> Yes Director-at-Large seems absolutely superfluous.  Unless there are volunteers who want to sit in on board meetings.
+2010-07-07 20:10:29 < Alowishus> I don't see a reason to stop volunteers from sitting in... but if they're given DaL's in the bylaws, then they can screw up quorum
+2010-07-07 20:10:42 -!- You're now known as augmented4th
+2010-07-07 20:10:45 < augmented4th> hi all
+2010-07-07 20:10:48 < augmented4th> sorry I'm late
+2010-07-07 20:10:55 < Alowishus> ADJOURNED 8:10PM
+2010-07-07 20:10:57 < pacneil> Meetings have to be public, by law, I believe
+2010-07-07 20:11:11 < pacneil> just in time to adjourn!
+2010-07-07 20:11:11 < Alowishus> pacneil: well isn't there a public portion and then tehre can be a private "executive session" IIRC
+2010-07-07 20:11:17 < augmented4th> I think we need to go down to 4 DaLs
+2010-07-07 20:11:32 < Alowishus> augmented4th: we were debating whether ANY are necessary at all
+2010-07-07 20:11:33 < augmented4th> and I hav no idea why Immediate Past President has to me a board member
+2010-07-07 20:11:37 < pacneil> augmented4th: why do we need any?
+2010-07-07 20:11:39 < Alowishus> knowledge transfer
+2010-07-07 20:11:53 < Alowishus> that's the reason for that, but again, the org is so small that there's not much knowledge to transfer, so IPP is probably useless as well
+2010-07-07 20:11:55 < augmented4th> yeah, but there's no way we'll get Dave tokeep coming for a year
+2010-07-07 20:12:00 < Alowishus> hah no
+2010-07-07 20:12:02 < pacneil> immediate past president probably doesn't even know what IRC is
+2010-07-07 20:12:05 < Alowishus> lol
+2010-07-07 20:12:08 < augmented4th> zackly
+2010-07-07 20:12:23 -!- Irssi: #SDCS: Total of 6 nicks [0 ops, 0 halfops, 0 voices, 6 normal]
+2010-07-07 20:12:26 < Alowishus> IPP is more than welcome to help, but again giving them a formal position makes it a quorum problem
+2010-07-07 20:12:37 < augmented4th> yep
+2010-07-07 20:12:53 < pacneil> Yeah, anything to make a quorom easier is probably a good thing
+2010-07-07 20:13:02 < pacneil> IMNSHO
+2010-07-07 20:13:06 < cdl_> What kind of a quorum do you need to amend the bylaws to reduce the number of DaL?
+2010-07-07 20:13:25 < augmented4th> anyway, before we discuss amendments seriously I think we need to address Article XI of the bylaws
+2010-07-07 20:13:31 < Alowishus> and in the past, DaL's did things like membership... which we maybe could use, though I could see maybe having 2 and assigning them administrative duties like webmaster and membership
+2010-07-07 20:13:45 < augmented4th> any amendments need to be submitted for review for at least 30 days before they can be voted in
+2010-07-07 20:14:03 < augmented4th> doesn't mean we can't change that rule in the amendments, but it's how things stand for now
+2010-07-07 20:14:10 < Alowishus> is that hte one that requires notifying the whole membership?
+2010-07-07 20:14:24 < augmented4th> no, board only
+2010-07-07 20:14:33 < Alowishus> k
+2010-07-07 20:14:38 < augmented4th> I also reviewed the SIG guidelines
+2010-07-07 20:14:46 < augmented4th> fewer things to amend, but still some issues
+2010-07-07 20:14:57 < cdl_> Says the amendments should be published on the SDCS website 15 days prior to meeting to vote on them.
+2010-07-07 20:15:04 < augmented4th> yeah
+2010-07-07 20:15:07 < augmented4th> no problem
+2010-07-07 20:15:09 < pacneil> How can we do a web listing of suggested changes to the bylaws?
+2010-07-07 20:15:09 < Alowishus> so can you just submit one big fat redline diff and have it voted on next month? :)
+2010-07-07 20:15:17 < augmented4th> pretty much
+2010-07-07 20:15:29 < pacneil> Has anyone prepared suggestions?
+2010-07-07 20:15:37 < augmented4th> but at this point I've just looked at what needs amendment
+2010-07-07 20:15:45 < augmented4th> very few places have I proposed specific changes yet
+2010-07-07 20:16:29 < pacneil> Where should we start? I have the page up
+2010-07-07 20:16:33 < augmented4th> I think we should just go through article by article and see if anybody has any issues
+2010-07-07 20:16:39 < pacneil> http://www.sdcs.org/bylaws/
+2010-07-07 20:16:54 < augmented4th> A1 shouldn't be contested by anyone :)
+2010-07-07 20:17:21 < pacneil> I see nothing to change in Aricle II
+2010-07-07 20:17:34 < augmented4th> A2.A.2
+2010-07-07 20:17:40 < augmented4th> "web based user forum"?
+2010-07-07 20:17:52 < pacneil> did they ever have that?
+2010-07-07 20:17:57 < Alowishus> yes
+2010-07-07 20:17:57 < augmented4th> I suppose that function is fulfilled by -list
+2010-07-07 20:18:01 < Alowishus> MUG did
+2010-07-07 20:18:05 < Alowishus> was retarded
+2010-07-07 20:18:13 < augmented4th> but again that's a SIG thing and not SDCS
+2010-07-07 20:18:24 < augmented4th> I'd suggest we strike that phrase entirely
+2010-07-07 20:18:36 < pacneil> I'm not a fan of web-based user forums
+2010-07-07 20:18:51 < augmented4th> user forum isn't nbecessary for general SDCS stuff
+2010-07-07 20:18:58 < Alowishus> mailing list is sufficient
+2010-07-07 20:19:09 < pacneil> I agree
+2010-07-07 20:19:09 < Alowishus> and hey, mailing list has web archives so I say it qualifies current bylaws
+2010-07-07 20:19:10 < augmented4th> I don't see we ever need to have a "user mtg" (as opposed to board) any time other than the yearly elections
+2010-07-07 20:19:19 < Alowishus> definitely should be removed
+2010-07-07 20:19:39 < pacneil> Section  B may need  to be amended
+2010-07-07 20:19:54 < cdl_> Need to have a user meeting to vote on changing bylaws.
+2010-07-07 20:19:54 < augmented4th> secB is part of A3
+2010-07-07 20:20:07 < pacneil> sorry, you're right
+2010-07-07 20:20:10 -!- Irssi: #SDCS: Total of 6 nicks [0 ops, 0 halfops, 0 voices, 6 normal]
+2010-07-07 20:20:13 < Alowishus> KPLUG meeting now counts as user meeting, yah?
+2010-07-07 20:20:15 < augmented4th> is tessier around?
+2010-07-07 20:20:22 < augmented4th> he shoudl be taking notes, as secretary
+2010-07-07 20:20:33 < Alowishus> figure he's logging IRC
+2010-07-07 20:20:41 < Alowishus> that's sufficient, no? :)
+2010-07-07 20:20:46 < augmented4th> Alowishus: no, we just convene an SDCS meeeting separately for elections like we did a couple months ago
+2010-07-07 20:21:10 < augmented4th> well, he'll need to prepare a redued transcript as minutes I think
+2010-07-07 20:21:16 < Alowishus> sure
+2010-07-07 20:21:25 < Alowishus> but that can be done later, given the chatlog
+2010-07-07 20:21:34 < augmented4th> yeah
+2010-07-07 20:21:41 < cdl_> Note our insurance agent doesn't think that KPLUG meetings are SDCS meetings.  We have to pretend that they are.
+2010-07-07 20:21:54 < augmented4th> but I think there's a bylaw that it be produced w/in 48 hours or something
+2010-07-07 20:22:06 < augmented4th> well, I don't think we're to the insurance yet
+2010-07-07 20:22:17 < augmented4th> that's in the SIG guildelines
+2010-07-07 20:22:24 < tessier> I am around and logging.
+2010-07-07 20:22:43 < pacneil> Article II Section A
+2010-07-07 20:22:52 < pacneil> Any changes?
+2010-07-07 20:23:02 < augmented4th> just remove "wed-based user forum" from #2
+2010-07-07 20:23:06 < augmented4th> web*
+2010-07-07 20:23:27 < pacneil> who maintains the web site?
+2010-07-07 20:23:48 < augmented4th> I do, and Alowishus 
+2010-07-07 20:23:53 < pacneil> maybe that person could produce the redlined version
+2010-07-07 20:24:04 < augmented4th> both of us have credentials to change stuff
+2010-07-07 20:24:10 < augmented4th> k
+2010-07-07 20:24:22 < Alowishus> I'll send a copy to tessier too since it should sit with the secretaryΩ
+2010-07-07 20:24:28 < Alowishus> (the info)
+2010-07-07 20:24:44 < pacneil> Article II Section A changes?
+2010-07-07 20:24:50 < pacneil> oops
+2010-07-07 20:24:54 < pacneil> Article III Section A changes?
+2010-07-07 20:25:02 < augmented4th> don't see any
+2010-07-07 20:25:26 < pacneil> Article III Section B?
+2010-07-07 20:25:55 < cdl_> No Family Members, Youth Members.  Maybe no Honorary Members.
+2010-07-07 20:26:02 < augmented4th> no notes there, though I think we might want to explicitly cancel any previously-granted honorary memberships
+2010-07-07 20:26:08 < augmented4th> given that we don't know who might hold them
+2010-07-07 20:26:26 < pacneil> Corporate Members?
+2010-07-07 20:26:27 < augmented4th> might just be something we append to the end
+2010-07-07 20:26:45 < augmented4th> that language seems fine to me
+2010-07-07 20:26:50 < augmented4th> doubt we'll ever have any, tho
+2010-07-07 20:27:00 < cdl_> Are there any Afiliated SIGs in the future?
+2010-07-07 20:27:05 < tessier> If the bylaws do not recognize such members anymore I think their memberships are cancelled.
+2010-07-07 20:27:11 < augmented4th> I think we need to provide for that eventuality
+2010-07-07 20:27:36 < augmented4th> tessier: so are you suggesting we cancel the whole class of honorary members"
+2010-07-07 20:27:37 < tessier> Does KPLUG really want to be in that business?
+2010-07-07 20:27:37 < augmented4th> ?
+2010-07-07 20:27:55 < tessier> augmented4th: I don't have string feelings about it either way but whatever makes things easier/simpler for us is good.
+2010-07-07 20:27:58 < cdl_> Are there any known honorary members?
+2010-07-07 20:28:00 < augmented4th> I menat the eventuality of more affiliated SIGs
+2010-07-07 20:28:03 < tessier> oh
+2010-07-07 20:28:33 < tessier> I think we probably don't need to wrangle with affiliated sigs or honorary members.
+2010-07-07 20:28:34 < pacneil> So to reiterate, remove Section B2, B3 and B4
+2010-07-07 20:28:47 < pacneil> ??
+2010-07-07 20:28:50 < augmented4th> well, maybe we shoudl just strike the "except for honorary..." phrase from III/A/2
+2010-07-07 20:28:51 < tessier> Given the trend of sigs going away and none but kplug sticking around.
+2010-07-07 20:29:36 < augmented4th> B4 is all we really need to strike
+2010-07-07 20:29:47 < augmented4th> B2 and B3 are fine, since they aren't lifetime
+2010-07-07 20:30:00 < augmented4th> so we don't have to have record of any past members in those categoriez
+2010-07-07 20:30:04 < augmented4th> -Z+s
+2010-07-07 20:30:06 < pacneil> inactive within SDCS or an affiliated SIG for a period of five years
+2010-07-07 20:30:34 < augmented4th> but we can't be sure of that status for another 5 years
+2010-07-07 20:30:37 < pacneil> any lifetime member have attended a meeting in the last five years?
+2010-07-07 20:30:42 < augmented4th> no ideas
+2010-07-07 20:30:54 < pacneil> Yeah, I wonder if there is a list somewhere?
+2010-07-07 20:31:20 < tessier> If there is a paper copy (which I doubt) it would be in my garage.
+2010-07-07 20:31:30 < pacneil> Perhaps we need to put some kind of announcement on the web site, before canceling lifetime membershiops
+2010-07-07 20:31:55 < pacneil> reminding members they must attend a meeting of KPLUG to keep their membership
+2010-07-07 20:32:02 < pacneil> constructive notice
+2010-07-07 20:32:05 < pacneil> and all that
+2010-07-07 20:32:53 < augmented4th> but would we have record of anybody having been granted honorary membership?
+2010-07-07 20:33:03 < Alowishus> probably was marked as such in the database
+2010-07-07 20:33:13 < Alowishus> Mac people had digital DB, not sure how it was transferred to Lan's board
+2010-07-07 20:33:16 < augmented4th> I suggest we just strike the whole category and forget about having to care :)
+2010-07-07 20:33:28 < Alowishus> I know there was discussion about it, format conversion and such
+2010-07-07 20:33:32 < Alowishus> Maybe a printed copy was the answer
+2010-07-07 20:34:48 < cdl_> Are we ready for Article III Section C Dues?
+2010-07-07 20:35:31 < augmented4th> well, have we decided what to change in 3/A abd 3/B?
+2010-07-07 20:36:10 < augmented4th> I suggest we strike 3/a/2 "except for honorary..." and 3/b/4
+2010-07-07 20:36:19 < augmented4th> (the latter in its entirety
+2010-07-07 20:36:21 < augmented4th> )
+2010-07-07 20:37:34 < cdl_> Do we need Family Members and Youth Student Members  III/B/2 III/B/3?  This feeds forward into the Dues section.
+2010-07-07 20:38:29 < pacneil> I think we no longer need Family or Youth Members,
+2010-07-07 20:38:33 < augmented4th> I don't see any problem with those categories, but reducing from $6 annually does seem rather silly
+2010-07-07 20:40:42 < pacneil> I'm for simplifying it as much as possible
+2010-07-07 20:40:58 < augmented4th> k, then take them out
+2010-07-07 20:41:13 < augmented4th> realize we're <20% through and it's been half an hour since I got here
+2010-07-07 20:41:32 < cdl_> Slash and burn
+2010-07-07 20:41:38 < augmented4th> cdl_++
+2010-07-07 20:42:01 < augmented4th> 3/b/2-4: gone
+2010-07-07 20:42:28 < pacneil> yeah, it's slow going
+2010-07-07 20:42:58 < pacneil> Article III Section C, changes?
+2010-07-07 20:43:04 < cdl_> I'm ready for 3/C: dues   Recommend deleting all reference to percentage adjustment of regular member fees.  Just one fee per person.
+2010-07-07 20:43:10 < augmented4th> 3/c/1: just needs the first sentence
+2010-07-07 20:43:30 < augmented4th> and 3/c/2: gone
+2010-07-07 20:43:53 < pacneil> are SIG Guidelines going to continue?
+2010-07-07 20:44:04 < augmented4th> though I'm not quite sure where the STanding Rules are (#3)
+2010-07-07 20:44:20 < augmented4th> yes, there are important things in SIG guidelines that aren't in bylaws
+2010-07-07 20:44:29 < augmented4th> we'll be rendering a lot of it moot, but not all of it
+2010-07-07 20:44:40 < pacneil> OK, just wondering, I haven't looked at them in a while
+2010-07-07 20:44:41 < cdl_> Note I have two different copies of SIG Guidelines.  One has a lot of red-letter changes but I don't know if it was ever adopted.
+2010-07-07 20:44:53 < augmented4th> I just printed the SIG Guidelines PDf this afternoon
+2010-07-07 20:45:01 < augmented4th> straight off the Web
+2010-07-07 20:45:07 < augmented4th> tho I didn't see any STanding RUles
+2010-07-07 20:45:15 < pacneil> Maybe we need Article II Section C.3
+2010-07-07 20:45:23 < pacneil> Maybe we need Article III Section C.3
+2010-07-07 20:45:30 < pacneil> I can't seem to type III
+2010-07-07 20:45:33 < Alowishus> the one that's historically been given out is http://www.sdcs.org/SIG-Guidelines.pdf
+2010-07-07 20:45:35 < pacneil> for some reason
+2010-07-07 20:45:39 < augmented4th> yes, but I'm not sure where the SRs are to which it refers
+2010-07-07 20:46:01 < augmented4th> 3/c/4 should be kept too
+2010-07-07 20:46:55 < pacneil> Maybe we should say something like "Dues will be payable in advance, at rates decided by the board"
+2010-07-07 20:46:58 < augmented4th> aha: http://www.sdcs.org/minutes/20080730_board_minutes_e4.rtf
+2010-07-07 20:47:10 < cdl_> I have a printed copy of SDCS Board Standing Rules dated July 30 2008.  With some penciled-in changes.
+2010-07-07 20:47:43 < augmented4th> SRs are another 3-page doc
+2010-07-07 20:48:07 < Alowishus> heh sounds like another project by whassisface
+2010-07-07 20:48:16 < augmented4th> or, at least, OO.o renders the RTF as 3 pages without modification :)
+2010-07-07 20:48:17 < pacneil> nice, something for another meeting
+2010-07-07 20:49:08 < augmented4th> SRs don't even mention the "rates" to which Bylaws 3/c/3 refer
+2010-07-07 20:49:15 < tessier> Speaking of whassisface, Lance was supposed to meet up with me at some point after the last election to "brief" me on what he had been up to. But he has never responded to emails requesting we make good on that meeting. I don't really see that he has anything important for me so I'm going to let it go.
+2010-07-07 20:49:44 < pacneil> so wee need to leave Article III Section C: 3 for now?
+2010-07-07 20:49:46 < cdl_> By the way, SIG guidlines say $6.00 for SDCS membership plus whatever else the SIG wants to charge for itself.
+2010-07-07 20:49:47 < augmented4th> tessier: I move we excise all trace of Lance entirely, from this second forward
+2010-07-07 20:49:55 < Alowishus> heee
+2010-07-07 20:50:00 < pacneil> hehehe
+2010-07-07 20:50:10 < pacneil> could be a long meeting
+2010-07-07 20:51:11 < pacneil> So Article III Secions C will contain only the first sentence in 1, 3  and 4?
+2010-07-07 20:51:29 < pacneil> That didn't come out so clearly
+2010-07-07 20:51:51 < augmented4th> 3/c/3 just needs the first phrase (up until the comma)
+2010-07-07 20:51:59 < cdl_> Rates are not stated in Standing Rules, but in SIG Guidelines.  A pointer to the wrong place.
+2010-07-07 20:52:02 < augmented4th> but sentece 11 of 3/c/1 and all of 3/c/4
+2010-07-07 20:52:33 < augmented4th> cdl_: good point, just change that to the right document rather than strike the second half
+2010-07-07 20:53:16 < cdl_> Makes it agree with 3/c/1 which says SIG Guidelines.  And sort of redundant.
+2010-07-07 20:53:33 < pacneil> so the new sentence should read "Dues will be payable in advance, at rates as stated in the SIG Guidelines ?
+2010-07-07 20:53:40 < cdl_> good
+2010-07-07 20:53:59 < pacneil> On to Article IV?
+2010-07-07 20:54:07 < augmented4th> yes, please
+2010-07-07 20:54:26 < cdl_> Do we have and or need a Budget & Finance Committee?
+2010-07-07 20:54:40 < augmented4th> The only note I have in IV is 4/a/7's reference to the Audit Committee
+2010-07-07 20:54:41 < pacneil> I don't think so
+2010-07-07 20:55:08 < augmented4th> ah, yeah
+2010-07-07 20:55:31 < augmented4th> "November Board meeting" should be changed to "penultimate scheduled Board meeting"
+2010-07-07 20:55:46 < pacneil> The annual budget for the upcoming fiscal year shall be prepared and approved by the board at the November meeting?
+2010-07-07 20:55:59 < augmented4th> like hell we're going to meet monthly
+2010-07-07 20:56:26 < augmented4th> just say the second-to-last regularly scheduled meeting of the year, like my wording above states
+2010-07-07 20:56:32 < cdl_> 4/A/2 says that the annual budget shall be presented by the B&F committee.  Maybe the Secretary can act as the B&F Committee, since there are not very many people to form a committee from.
+2010-07-07 20:56:42 < pacneil> augmented4th: that's fine too
+2010-07-07 20:56:56 < augmented4th> I think the treasurer is a better presenter than the secretary for budget issues
+2010-07-07 20:57:00 < cdl_> Or the Treasurer, more likely, being closely involved in the flow of money.
+2010-07-07 20:57:37 < pacneil> I see nothing else that needs change until Article IV, Section A:7
+2010-07-07 20:57:56 < augmented4th> agreed
+2010-07-07 20:58:08 < augmented4th> do we strike 7 entirely, or do we provide for some form of auditing?
+2010-07-07 20:58:18 < augmented4th> is that a requirement for 501(c)3 status?
+2010-07-07 20:58:22 < pacneil> we don't need no Audit Committee
+2010-07-07 20:58:32 < tessier> I agree the Treasurer would do it better.
+2010-07-07 20:58:49 < augmented4th> but we can't have the treasurer audit his own work
+2010-07-07 20:58:55 < augmented4th> brb...
+2010-07-07 20:58:56 < cdl_> The treasurer can not audit himself.  But some other member could.
+2010-07-07 20:59:10 < pacneil> Maybe they should audited by some independent person?
+2010-07-07 20:59:20 < pacneil> or two
+2010-07-07 20:59:27 < pacneil> Maybe two other officers
+2010-07-07 20:59:31 < cdl_> Appoint an ad hoc audit committee of one or two.
+2010-07-07 21:00:26 < pacneil> The Treasurer's books shall be audited by an ad hoc committee consisting of two board officers
+2010-07-07 21:00:46 < pacneil> The Treasurer shall  not be a member of this committee
+2010-07-07 21:00:52 < cdl_> good.  on to the next Article
+2010-07-07 21:01:13 < pacneil> Aricle V Section A
+2010-07-07 21:01:31 < cdl_> four plus eight does not equal thirteen.
+2010-07-07 21:01:40 < augmented4th> includes immediate past president
+2010-07-07 21:02:16 < augmented4th> but not explicitly stated there anyway
+2010-07-07 21:03:32 < pacneil> how should we change it?
+2010-07-07 21:04:01 < augmented4th> We do need DaLs, but not eight
+2010-07-07 21:04:03 < cdl_> Officers and directors shall consist of President, Vice President, Secretary, Treasurer, and two or more Directors at Large.
+2010-07-07 21:04:24 < augmented4th> the DaLs should basically be the SIG representatives
+2010-07-07 21:04:33 < pacneil> do we have two now?
+2010-07-07 21:04:41 < augmented4th> I think "2+" is too ambiguous
+2010-07-07 21:04:48 < augmented4th> we have 4 now
+2010-07-07 21:04:56 < augmented4th> Frojon, Chris, Rod, Josh
+2010-07-07 21:05:02 < pacneil> OK!
+2010-07-07 21:05:03 < Alowishus> -Josh
+2010-07-07 21:05:05 < augmented4th> though Chris's term at least is over
+2010-07-07 21:05:13 < Alowishus> unless I'm mistaken, my 2yrs ran out
+2010-07-07 21:05:13 < cdl_> I think we don't have to put an upper limit on the number of DaLs.  We don't have any SIG representatives because we don't have any SIGs to represent??
+2010-07-07 21:05:24 < Alowishus> I'm happy to re-serve until it's changed, but I think technically I don't count (like Chris)
+2010-07-07 21:05:46 < pacneil> maybe we should word it that there should be one DaL for each SIG?
+2010-07-07 21:05:53 < augmented4th> cdl_: just providing for the eventuality of more SIGs in future
+2010-07-07 21:05:55 < Alowishus> Like I said, could keep two slots and for now fill them with admin duties
+2010-07-07 21:06:04 < cdl_> Do we have DaLs like WebMaster (ex officio)?
+2010-07-07 21:06:12 < augmented4th> yeah, I think "2" is fine
+2010-07-07 21:06:16 < Alowishus> I'd prefer not to have to change DaL count based on SIG count
+2010-07-07 21:06:25 < augmented4th> nah, that's the Internet Committee, which we'll get to later
+2010-07-07 21:06:32 < pacneil> So the board should be 6?
+2010-07-07 21:06:37 < augmented4th> pacneil: yes
+2010-07-07 21:06:42 < Alowishus> how do we tie break?
+2010-07-07 21:06:49 < Alowishus> or is it 5 votes + president for ties?
+2010-07-07 21:07:06 < augmented4th> Alowishus: beat the opposing side until they cave
+2010-07-07 21:07:08 < pacneil> President isn't supposed to vote, no?
+2010-07-07 21:07:12 < Alowishus> lol augmented4th
+2010-07-07 21:07:20 < pacneil> or tug of war to decide?
+2010-07-07 21:07:24 < Alowishus> oh I guess if president doesn't vote then it's impossible to have tie :)
+2010-07-07 21:07:34 < Alowishus> so 6 is happy
+2010-07-07 21:07:44 < augmented4th> yeah
+2010-07-07 21:07:51 < pacneil> President's job it to preside, yes?
+2010-07-07 21:07:58 < tessier> We should be careful of the SDCS/kplug insurance issue as well. If we have SIGs and SIG reps that implies that KPLUG is a SIG of SDCS and then maybe we don't get insurance etc.
+2010-07-07 21:08:03 < augmented4th> so, with Chris & Josh's terms expiring we're at 6 and fine until next year
+2010-07-07 21:08:14 < tessier> We either fix the insurance or plan to rename SDCS to KPLUG or vice versa and get it all straight and legit.
+2010-07-07 21:08:21 < pacneil> works for me
+2010-07-07 21:08:37 < pacneil> SDCS/KPLUG Meeting for now
+2010-07-07 21:08:38 < augmented4th> tho next year we'll have to elect a one-year and a two-year term to get us back for alternating terms for the future
+2010-07-07 21:09:14 < Alowishus> are alternating terms necessary?  or can it just go 1-yr everyone?
+2010-07-07 21:09:37 < augmented4th> I like the DaLs with alternating terms for continuity
+2010-07-07 21:09:44 < Alowishus> k
+2010-07-07 21:09:57 < pacneil> any changes to Article V Section B?
+2010-07-07 21:10:00 < augmented4th> granted, it'll only be one member continuity each year unless an incumbent is elected, but still
+2010-07-07 21:10:09 < Alowishus> better than none
+2010-07-07 21:10:12 < augmented4th> yep
+2010-07-07 21:10:33 < augmented4th> 5/b is all fine
+2010-07-07 21:10:44 < pacneil> No more president for life?
+2010-07-07 21:10:52 < pacneil> :-)
+2010-07-07 21:11:07 < augmented4th> we can have whatever KPLUG officers we want, this is SDCS :)
+2010-07-07 21:11:17 < pacneil> Section C changes?
+2010-07-07 21:11:31 < augmented4th> 5/c/3: *one* even, *one* odd
+2010-07-07 21:12:10 < cdl_> 5/c/1  Not four Directors at Large at each annual meeting.
+2010-07-07 21:12:45 < pacneil> One director at large
+2010-07-07 21:12:46 < augmented4th> k, One Director there as well
+2010-07-07 21:13:00 < cdl_> 5/c/4  do we keep the fiction of affiliated SIGs?
+2010-07-07 21:13:20 < augmented4th> yes
+2010-07-07 21:13:23 < augmented4th> "just in case"
+2010-07-07 21:14:05 < pacneil> in case time  starts to move backwards, we all become younger and SDCS starts to grow. :-)
+2010-07-07 21:14:32 < augmented4th> hey, I'm not 29 for another couple weeks... maybe it'll grow in my lifetime :)
+2010-07-07 21:15:03 < pacneil> Section C,6 needs to be reworded
+2010-07-07 21:15:21 < augmented4th> it seems fine to me
+2010-07-07 21:15:33 < augmented4th> probably rarely needs to be referenced anyway
+2010-07-07 21:16:05 < pacneil> yeah, you're probably right
+2010-07-07 21:16:13 < pacneil> Section D?
+2010-07-07 21:16:15 < cdl_> Finished with 5/c yet?  On to 5/d Nominating Committee.
+2010-07-07 21:16:48 < cdl_> There are too many absolute calendar references in 5/d
+2010-07-07 21:16:55 < augmented4th> 5/d/1 should say "first schedule Board meeting of the year"
+2010-07-07 21:17:27 < pacneil> Do we even need a nominating committee?
+2010-07-07 21:17:45 < pacneil> Maybe the nominating committee is the board
+2010-07-07 21:17:47 < augmented4th> no, but 5/d/3 allows for nominations from the floor
+2010-07-07 21:17:51 < pacneil> minus the president
+2010-07-07 21:18:12 < augmented4th> so whether or not the nominating committee does any work , nominations can still be accepted
+2010-07-07 21:18:19 < pacneil> true
+2010-07-07 21:18:35 < pacneil> So no changes necessary to Section  D?
+2010-07-07 21:19:01 < augmented4th> just removing absolute dates as cdl_ and I have noted
+2010-07-07 21:19:26 < pacneil> What about elections in May?
+2010-07-07 21:19:34 < pacneil> Should be stick to that specific date?
+2010-07-07 21:19:53 < cdl_> The word "elected" in 5/d/1  "shall be elected by the Board" is probably the wrong word.  "selected" would be better.
+2010-07-07 21:19:54 < augmented4th> I'll reword that myself & present with changes later
+2010-07-07 21:20:08 < augmented4th> cdl_: noted
+2010-07-07 21:20:26 < tessier> appointed?
+2010-07-07 21:21:09 < pacneil> More discussion on Section D?
+2010-07-07 21:21:17 < augmented4th> FYI all, I'm still sitting in a SBUX down the street from my 7-8pm class, so I'll need to at least pause to travel home at 10pm
+2010-07-07 21:21:33 < augmented4th> or we can suspend the whole meeting by then
+2010-07-07 21:21:41 < pacneil> I have work I need to do at 10PM
+2010-07-07 21:22:04 < augmented4th> well, we're not quite half done with the bylaws, so I don't think we'll finish the whole thing by 10
+2010-07-07 21:22:30 < pacneil> Needs to be done
+2010-07-07 21:22:52 < augmented4th> well, 5/e then?
+2010-07-07 21:22:55 < cdl_> On to Section E.  Note that all those who were elected to office recently probably have not fulfilled the requirement if 5/e/1 of written acceptance.
+2010-07-07 21:22:57 < pacneil> Maybe we can schedule another meeting later this week or early next, if we don't get finished?
+2010-07-07 21:23:22 < augmented4th> 5/e/2: "monthly Board meetings" should just be "regularly scheduled Board meetings"
+2010-07-07 21:23:30 < augmented4th> or maybe we should explicitly state quarterly?
+2010-07-07 21:24:01 < augmented4th> another meeting to wrap up sounds fine to me, but let's barrel through as much as we can now
+2010-07-07 21:24:07 < pacneil> regularly scheduled is better
+2010-07-07 21:24:18 < pacneil> some future board may be interested in meeting more often
+2010-07-07 21:24:46 < augmented4th> if we stick with "regularly scheduled" we need to somehow say when and how the Board decides how many mtgs/yr to schedule
+2010-07-07 21:25:23 < augmented4th> I'll throw that in somewhere
+2010-07-07 21:25:55 < cdl_> Regular Meeting scheduling is sort of covered in Article VI Section B.
+2010-07-07 21:25:57 < augmented4th> After that, though, I don't see anything else in Article V
+2010-07-07 21:26:56 < augmented4th> cdl_: good point, but I'll add a proviso about incoming board choosing how many times to meet at the beginning of their collective term
+2010-07-07 21:27:36 < pacneil> Article VI?
+2010-07-07 21:27:51 < augmented4th> 6/b: adding the proviso mentioned above
+2010-07-07 21:28:05 < augmented4th> 6/d/1: remove reference to other classes of membership
+2010-07-07 21:28:24 < augmented4th> other than that, nothing in that Article
+2010-07-07 21:28:37 < pacneil> Section C?
+2010-07-07 21:28:54 < augmented4th> yeah, that's fine
+2010-07-07 21:28:56 < cdl_> 6/b/2 remove "written notice mailed"
+2010-07-07 21:28:58 < augmented4th> should we ever need to use it
+2010-07-07 21:29:46 < augmented4th> cdl_: why? It's "one of the following ways," so we never have to use that method unless none of the others are successful
+2010-07-07 21:29:51 < augmented4th> I like haveing that as a fallback
+2010-07-07 21:30:07 < augmented4th> maybe just switch the order of b and c
+2010-07-07 21:30:34 < augmented4th> not that any of us has each other's postal addresses anyway
+2010-07-07 21:30:37 < pacneil> that makes sense
+2010-07-07 21:31:29 < augmented4th> anything else in A6?
+2010-07-07 21:32:01 < cdl_> Note quorum requirement implies that there might be more than 500 members.
+2010-07-07 21:32:58 < augmented4th> should we change that to 15 or 20?
+2010-07-07 21:33:20 < augmented4th> (from 100, I mean, not change the implcation)
+2010-07-07 21:33:59 < pacneil> yeah, I think 15 or 20, but we need to pick one. :-)
+2010-07-07 21:34:17 < augmented4th> let's say 15 to be safe
+2010-07-07 21:34:23 < pacneil> agreed
+2010-07-07 21:34:31 < cdl_> 20 members would be realistic in the current situation.  I think we have about 40 or 50 dues-paying members as of a couple of months ago.
+2010-07-07 21:34:48 < pacneil> that sounds about right
+2010-07-07 21:35:20 < augmented4th> so, 20% of 40 or 50 is '8 or 10'
+2010-07-07 21:35:39 < augmented4th> so at that point we're still not even approaching 15
+2010-07-07 21:35:43 < pacneil> works for me
+2010-07-07 21:35:54 < pacneil> :)
+2010-07-07 21:36:01 < augmented4th> A7?
+2010-07-07 21:36:08 < augmented4th> 7/a/1: 6, not 13
+2010-07-07 21:36:10 < cdl_> On to Article VII.  We get to work again on how many DaL.
+2010-07-07 21:36:35 < augmented4th> 7/a/2: remove IPP, 2 DaL
+2010-07-07 21:36:43 < cdl_> Do we leave the IPP in for old times sake?
+2010-07-07 21:36:48 < augmented4th> no
+2010-07-07 21:36:55 < pacneil> why not?
+2010-07-07 21:36:55 < augmented4th> because Dave is not coming back
+2010-07-07 21:37:05 < pacneil> he's the current IPP
+2010-07-07 21:37:09 < augmented4th> right
+2010-07-07 21:37:10 < pacneil> what about the future?
+2010-07-07 21:37:28 < cdl_> Aren't you pacneil looking forward to being IPP?
+2010-07-07 21:37:38 < pacneil> Maybe
+2010-07-07 21:37:43 < augmented4th> I suppose, if we can make quorum for a year without ever having IPP present, we could leave it in
+2010-07-07 21:37:45 < Alowishus> IPPFL
+2010-07-07 21:37:50 < augmented4th> lol
+2010-07-07 21:38:01 < pacneil> hehehe
+2010-07-07 21:38:24 < augmented4th> and if the incumbent President is elected, is he both Pres and IPP, or do we have to look back to whomever held the office preceding him?
+2010-07-07 21:38:44 < augmented4th> probably the latter
+2010-07-07 21:38:46 < pacneil> can he be both?
+2010-07-07 21:39:06 < cdl_> PooBah, for you G&S fans.
+2010-07-07 21:39:10 < augmented4th> I don't think so, given how many times we're stating explicitly how many members are on th Board
+2010-07-07 21:39:27 < pacneil> ok, IPP is out
+2010-07-07 21:39:42 < augmented4th> k, good
+2010-07-07 21:39:44 < augmented4th> just simpler
+2010-07-07 21:39:53 < pacneil> two DaL's
+2010-07-07 21:40:08 < augmented4th> typographical note in 7: the "a)" in 7/a/4 needs to be removed
+2010-07-07 21:40:20 < augmented4th> since there's no b), it's just #4
+2010-07-07 21:40:49 < pacneil> any changes to Section B?
+2010-07-07 21:41:02 < augmented4th> err, I was referring to 7/b/4 above
+2010-07-07 21:41:27 < pacneil> section C?
+2010-07-07 21:41:38 < pacneil> trying to move things along here
+2010-07-07 21:41:58 < augmented4th> 7/c/2: "regularly schedule meetings"
+2010-07-07 21:41:59 < pacneil> Section C,2 remove monthly
+2010-07-07 21:42:03 < augmented4th> again, remove referencs to monthly
+2010-07-07 21:42:38 < pacneil> else?
+2010-07-07 21:42:49 < augmented4th> 7/c/3 is the sane as 6/c, so I think it should go
+2010-07-07 21:43:01 < augmented4th> oh wait, never mind
+2010-07-07 21:43:12 < augmented4th> 6/c is member mtgs, 7/c/3 is board mtgs
+2010-07-07 21:43:15 < augmented4th> leave it
+2010-07-07 21:43:53 < pacneil> Section D remove special member types
+2010-07-07 21:44:19 < pacneil> oops
+2010-07-07 21:44:21 < augmented4th> That's in Article 6, I already did that
+2010-07-07 21:44:28 < pacneil> page scrolled up on me
+2010-07-07 21:44:44 < augmented4th> nothing else in A7 I see
+2010-07-07 21:45:02 < pacneil> A8?
+2010-07-07 21:45:13 < cdl_> As we get to VIII Committees. We either say "we don't need no stinkin committees" or have a lot to do.
+2010-07-07 21:45:14 < augmented4th> A8: remove references to Audit & Budget/Finance
+2010-07-07 21:45:25 < pacneil> Should we remove Section A?
+2010-07-07 21:45:49 < augmented4th> well, I see a point to Membership & Internet committees
+2010-07-07 21:45:58 < pacneil> Ok
+2010-07-07 21:46:14 < augmented4th> though Membership COmmittee duties might be assigned to either secretary or treasurer
+2010-07-07 21:46:27 < augmented4th> (as we did with Audit & B/F before)
+2010-07-07 21:46:33 < tessier> Yeah.
+2010-07-07 21:46:39 < pacneil> Committees could be strictly ad hoc
+2010-07-07 21:46:49 < pacneil> We don't really need any, do we?
+2010-07-07 21:46:51 < tessier> We're too small to have standing committees.
+2010-07-07 21:47:03 < cdl_> Well, don't we have a membership person in KPLUG?
+2010-07-07 21:47:09 < augmented4th> I think we need to explicitly state that a Webmaster & Backup should be appointed, so why not call it the Internet Committee?
+2010-07-07 21:47:14 < pacneil> membership person, yes
+2010-07-07 21:47:38 < augmented4th> but SIG Liaison can be done away with as well
+2010-07-07 21:47:40 < Alowishus> but webmaster could be overlapped with execs
+2010-07-07 21:47:50 < Alowishus> so could membership actually
+2010-07-07 21:48:05 < Alowishus> just thinking, don't make ti specifically tied to a DaL, ust to make life easy
+2010-07-07 21:48:11 < pacneil> I think we could just remove all of Article VII
+2010-07-07 21:48:25 < pacneil> 8
+2010-07-07 21:48:29 < pacneil> not 7
+2010-07-07 21:48:31 < augmented4th> Alowishus: though we can't apply webmaster to a specific office, as the person who wants to do it might be in a different position each year
+2010-07-07 21:48:45 < Alowishus> augmented4th: right.... so yeah, Internet Committee that's appointed
+2010-07-07 21:48:55 < Alowishus> sorry I misread what you first typed
+2010-07-07 21:49:06 < Alowishus> thought you meant explicitly state those as DaL duteis
+2010-07-07 21:49:07 < Alowishus> duties
+2010-07-07 21:49:23 < augmented4th> I agree that calling it a Committee seems a little too official, especially since it's the only one left
+2010-07-07 21:49:41 < augmented4th> but I don't see where else it would fit
+2010-07-07 21:49:53 < augmented4th> I'll amend A8 to refer only to Webmaster duties somehow
+2010-07-07 21:49:55 < Alowishus> only one?  I thought two - Website and Membership
+2010-07-07 21:50:01 < Alowishus> committee = primary and backup?
+2010-07-07 21:50:25 < augmented4th> well, Membership could easily be assigned specifically to either Treasurer or Secretary
+2010-07-07 21:50:28 < cdl_> Possibly primary and backup also for Membership "committee".
+2010-07-07 21:51:01 < Alowishus> augmented4th: agreed, but if left generally as a "committed" consisting of "at least a primary and backup" then it's at board discretion to assign wherever appropriate for the current makeup
+2010-07-07 21:51:04 < cdl_> Treasurer doesn't want to be also Membership person.  Separation of these two functions works well for KPLUG.
+2010-07-07 21:51:07 < Alowishus> s/committed/committee
+2010-07-07 21:51:22 < augmented4th> OK, Membership and Internet as standing commitees, with a provision for creating ad-hoc committees as necessary
+2010-07-07 21:51:30 < Alowishus> I realize *current* treasurer doesn't, but I'm just thinking how to make language general and easy to apply to future board setups
+2010-07-07 21:51:46 < cdl_> Separation of duties is still a good idea.
+2010-07-07 21:51:49 < augmented4th> right
+2010-07-07 21:51:57 < augmented4th> for the same reason as Webmaster/Internet
+2010-07-07 21:52:22 < augmented4th> so I'll just re-write A8
+2010-07-07 21:52:30 < augmented4th> and I hane no notes for the rest of the document
+2010-07-07 21:52:36 < augmented4th> s/hane/have/
+2010-07-07 21:52:56 < cdl_> What do we do with Article IX which basically talks about SIO
+2010-07-07 21:53:05 < cdl_> SIGs that is.  Hit the wrong key.
+2010-07-07 21:53:09 < augmented4th> though we might want to specifically say something somewhere about virtual vs. in-person meetings
+2010-07-07 21:53:20 < augmented4th> cdl_: understandable :)
+2010-07-07 21:53:44 < augmented4th> though I say leave it
+2010-07-07 21:54:05 < augmented4th> there are a few things I'd like to change in SIG Guidelines, but that's not why we're meeting tonight
+2010-07-07 21:54:40 < cdl_> Maybe we need to set the next meeting time (and agenda) and finish up for tonight.
+2010-07-07 21:55:03 < pacneil> When would you like to meet again here?
+2010-07-07 21:55:13 < augmented4th> I consider the bylaws to be effectively covered, and I'll gladly amend/post the results of our discussion
+2010-07-07 21:55:35 < augmented4th> SBUX employee just told me I should get out :)
+2010-07-07 21:56:00 < pacneil> We'll discuss the next meeting by email
+2010-07-07 21:56:06 < augmented4th> we'll see each other tomorrow evening if nothing else
+2010-07-07 21:56:10 < pacneil> I have to go too
+2010-07-07 21:56:11 < pacneil> true
+2010-07-07 21:56:16 < augmented4th> and I'll actually be there for a change
+2010-07-07 21:56:19 < augmented4th> ttyl guys
+2010-07-07 21:56:24 < cdl_> bye all
+2010-07-07 21:56:25 -!- You're now known as aug4_away
+2010-07-07 21:56:28 < pacneil> by
+2010-07-07 21:56:30 < pacneil> bye
+2010-07-07 21:56:52 < pacneil> we did actually get some work done in two hours
+2010-07-07 21:57:36 < Alowishus> yes very good
+2010-07-07 21:57:43 < Alowishus> I gotta scoot too
+2010-07-07 21:58:46 -!- cdl_ [~chatzilla@cpe-66-75-18-43.san.res.rr.com] has left #SDCS []
+2010-07-07 21:59:03 -!- Alowishus [~jpenix@99-150-248-225.lightspeed.sndgca.sbcglobal.net] has left #SDCS []
